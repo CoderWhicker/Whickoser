@@ -1,0 +1,22 @@
+{
+  "name": "whickoser",
+  "version": "1.0.0",
+  "description": "A Web Browser build with electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderWhicker/Whickoser.git"
+  },
+  "author": "Prof. Whicker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderWhicker/Whickoser/issues"
+  },
+  "homepage": "https://github.com/CoderWhicker/Whickoser#readme",
+  "devDependencies": {
+    "electron": "^11.0.3"
+  }
+}
